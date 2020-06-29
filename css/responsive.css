@@ -234,12 +234,12 @@
 		margin-top: 8rem;
 	}
 	.header-content .sub-title h4{
-		font: normal 500 36px/40px var(--kaushan);
+		font: normal 500 32px/35px var(--kaushan);
 		letter-spacing: 1px;
 		color: #fff;
 	}
 	.header-content .title h1{
-		font: normal 700 65px/70px var(--montserrat);
+		font: normal 700 55px/60px var(--montserrat);
 		text-transform: uppercase;
 		color: #fff;
 		position: relative;
