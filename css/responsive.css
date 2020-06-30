@@ -293,7 +293,7 @@
 		margin-top: 1.5rem;
 	}
 	.about-service .service-content .card-body .card-content{
-		height: 190px;
+		height: 185px;
 	}
 
 	/* start comment-area  */
@@ -335,14 +335,6 @@
 	/* start client-testimonial area */
 	.client-testimonial .single-client{
 		text-align: center;
-	}
-	.client-testimonial .single-client .image-content,
-	.client-testimonial .single-client .text-content h5.name
-	{
-		text-align: center;
-	}
-	.client-testimonial .single-client .text-content span{
-		margin-left: 38%;	
 	}
 	.client-testimonial .single-client .text-content span.profession::after{
 		content: "";
