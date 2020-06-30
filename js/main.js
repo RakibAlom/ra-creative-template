@@ -95,6 +95,12 @@ $('.comment-area-2 .owl-carousel').owlCarousel ({
 	}
 })
 
+//Image Isotope
+$('.grid').isotope({
+  // options
+  itemSelector: '.grid-item',
+});
+
 // image magnific-popup script
 $(document).ready(function () {
  	$('.portfolio-area .image-section .image-popup-link').magnificPopup({

@@ -333,6 +333,9 @@
 	/* end comment-2 area */
 	
 	/* start client-testimonial area */
+	.client-testimonial .single-client{
+		text-align: center;
+	}
 	.client-testimonial .single-client .image-content,
 	.client-testimonial .single-client .text-content h5.name
 	{
